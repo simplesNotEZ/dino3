@@ -24,5 +24,8 @@
 3. Navigate to this folder and run `npm test`.
 
 #### Deployed Link
+https://dinos3-46248.firebaseapp.com/
+
 
 #### Framework of choice
+Vue
