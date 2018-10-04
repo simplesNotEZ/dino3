@@ -6,7 +6,7 @@
 
 ## Screenshot
 
-<img src="" title="mock job-app page" width="285" height="200">
+<img src="https://github.com/simplesNotEZ/dino3/blob/master/images/dinos3.png" title="mock job-app page" width="285" height="200">
 
 ## Instructions for this drill
 
@@ -40,4 +40,4 @@ https://dinos3-46248.firebaseapp.com/
 
 
 #### Framework of choice
-<img src="" title="Vue.js logo" width="175" height="175">
+<img src="https://github.com/simplesNotEZ/dino3/blob/master/images/vueLogo.png" title="Vue.js logo" width="175" height="175">
